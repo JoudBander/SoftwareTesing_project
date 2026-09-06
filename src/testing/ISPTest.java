@@ -3,14 +3,6 @@ package testing;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-/**
- * Name: Reenad Alqahtani
- * ID: 445009118
- * Email: 445009118@pnu.edu.sa
- * Section: 6C2
- * Group Number: 4
- * Contribution: Input Space Partitioning (ISP)
- */
 public class ISPTest {
 
     // Test Case 1: Negative numbers
