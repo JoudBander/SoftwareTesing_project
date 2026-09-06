@@ -14,13 +14,7 @@ import org.junit.runners.Parameterized;
 public class ParameterizedTest {
 	
 	
-	// Name:lama almashoq
-    // Email:445008755@pnu.edu.sa 
-    // id: 445008755 
-    // Section: 6C2
-    // Group: 4
-    // Contribution: JUnit Parameterized Tests
-
+	
     private int inputNumber;
     private boolean expectedResult;
 
