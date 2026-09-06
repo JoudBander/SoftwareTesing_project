@@ -8,14 +8,7 @@ import org.junit.Assert;
 import static org.junit.Assert.*;
 import org.junit.experimental.theories.DataPoint;
 
-/**
- * Name: Patol khalid Alkanany
- * ID: 445008681
- * Email: 445008681@pnu.edu.sa 
- * Section: 6C2
- * Group Number: 4
- * Contribution: Theories
- */
+
 
 @RunWith(Theories.class)
 public class PerfectSquareTheoryTest {
